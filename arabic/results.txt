@@ -1,0 +1,11 @@
+Iteration   200 | Cost: 2.102530e-01
+Training Set Accuracy: 97.461667
+Training Set Accuracy: 95.810000
+
+Iteration  1000 | Cost: 1.973252e-02
+
+Program paused. Press enter to continue.
+
+Training Set Accuracy: 100.000000
+
+Test Set Accuracy: 98.490000
